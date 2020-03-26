@@ -1,1 +1,1 @@
-# Website-Development-using-Django
+I created a dynamic website using Django by downloading the template of travello website from colorlib.com   
